@@ -1,4 +1,4 @@
-🍫 Choco Shipment Dashboard – Power BI Project
+**🍫 Choco Shipment Dashboard – Power BI Project**
 This Power BI project analyzes global chocolate shipment data to gain insights into sales trends, geographical performance, product popularity, and team efficiency. It demonstrates dynamic dashboards with interactivity and KPIs that offer a comprehensive view for data-driven decisions.
 
 📊 Project Overview
